@@ -59,3 +59,34 @@ npm run dev
 ## License
 
 MIT
+
+## Future Development Plans
+
+### AI/Robot Integration
+- Implement AI-based decision making
+- Add automated player behavior
+- Develop machine learning models for poker strategy
+
+### Multiplayer Features
+- Multiple room support
+- Real-time game synchronization
+- Chat functionality
+- Tournament mode
+
+### Skill Levels
+- Junior level: Basic rules, simplified decision making
+- Intermediate level: Advanced strategies, pot odds
+- Senior level: Complex betting patterns, advanced tells
+- Professional level: Tournament-style play
+
+### Planned Improvements
+- Enhanced UI/UX
+- Performance optimizations
+- Statistical analysis tools
+- Replay system
+
+
+## Contributing to Poker Classic
+
+### Do you want to contribute?
+Send me a pull request!
